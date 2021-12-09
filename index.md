@@ -1,4 +1,4 @@
-# Uvod u programiranje
+# Uvod u programiranje u pythonu
 
 Kada bi pisanim jezikom znali zadavati naredbe računalu, mogli bi mu
 naređivati da kontinuirano izvršava naše \"recepte\". Mogli bi
